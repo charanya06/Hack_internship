@@ -1,0 +1,13 @@
+.a{
+    background-image: url(./assets/icon1.jpg);
+}
+
+.home-page-container {
+    background-image: url('./assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.navbar-icon {
+    cursor: pointer;
+}
